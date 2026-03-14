@@ -1,7 +1,9 @@
 Microsoft Internship Project – 4 Weeks
+
 Electronics Sales Analysis
 
 📌 Overview
+
 This repository contains the work completed during my 4‑week internship at Microsoft. The project focuses on analyzing customer behavior and sales performance using interactive dashboards and data visualization techniques. The goal was to provide actionable insights into revenue trends, loyalty program effectiveness, and product performance.
 
 🎯 Objectives
