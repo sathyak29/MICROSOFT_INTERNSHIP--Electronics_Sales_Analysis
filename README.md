@@ -17,6 +17,7 @@ This repository contains the work completed during my 4‑week internship at Mic
 - GitHub – for version control and collaboration
   
 📊 Key Deliverables
+
  1.Customer & Loyalty Analysis Dashboard
 - Customer counts, average ratings, revenue by gender and age
 - Loyalty vs non‑loyalty revenue comparison
